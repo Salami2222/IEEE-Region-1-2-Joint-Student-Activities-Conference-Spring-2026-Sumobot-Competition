@@ -40,6 +40,3 @@ Our robot's logic is driven by a 5-stage state machine:
 2. Install the [Pololu Zumo 32U4 library](https://github.com/pololu/zumo-32u4-arduino-library)
 3. Open `sumobot-starter-code/sumobot-starter-code.ino`
 4. Connect your Zumo 32U4 via USB and upload
-
-## Acknowledgments
-* IEEE Region 1 & Region 2 Joint Student Activities Conference — Spring 2026

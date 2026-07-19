@@ -34,14 +34,10 @@ Our robot's logic is driven by a 5-stage state machine:
 * **Sensors:** IR proximity (opponent detection), reflectance array (boundary detection)
 * **Motors:** Built-in dual gear motors via Zumo motor driver
 
-## Media Gallery
-![Team photo holding trophy](./media/team-photo.jpg)
-![Robot on the sumo ring](./media/robot.jpg)
-<!-- TODO: Add match video/GIF -->
 
 ## Getting Started
-1. Install the Arduino IDE
-2. Install the Pololu Zumo 32U4 library
+1. Install the [Arduino IDE](https://www.arduino.cc/en/software)
+2. Install the [Pololu Zumo 32U4 library](https://github.com/pololu/zumo-32u4-arduino-library)
 3. Open `sumobot-starter-code/sumobot-starter-code.ino`
 4. Connect your Zumo 32U4 via USB and upload
 

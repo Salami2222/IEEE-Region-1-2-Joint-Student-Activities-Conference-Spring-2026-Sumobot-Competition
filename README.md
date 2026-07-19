@@ -20,7 +20,7 @@ Every sumobot has IR proximity sensors, but in practice these are unreliable in 
 
 **Our Secret Sauce:** Instead of guessing, our strategy was to consistently cover as much of the ring as possible and actively seek contact. We only committed to a direct attack once we were close enough to be confident. This is what separated us from teams that leaned purely on sensor readings.
 
-### Software Architecture (State Machine)
+### Software Architecture (State Machine) 
 Our robot's logic is driven by a 5-stage state machine:
 * **Countdown + Opening Scan:** A brief delay, then a directional sweep to locate the opponent.
 * **Cross-Ring Drive:** An aggressive forward push to force early contact.

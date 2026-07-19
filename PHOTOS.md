@@ -23,3 +23,4 @@ A collection of photos from the IEEE Region 1 & 2 Joint SAC — Spring 2026 sumo
 
 ## Robot faceoff photo
 <img width="4000" height="3000" alt="Image" src="https://github.com/user-attachments/assets/8fa40cdd-6a37-407b-b6c6-4697ad41b0f6" />
+

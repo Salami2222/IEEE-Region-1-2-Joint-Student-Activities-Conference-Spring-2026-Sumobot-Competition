@@ -34,9 +34,12 @@ Our robot's logic is driven by a 5-stage state machine:
 * **Sensors:** IR proximity (opponent detection), reflectance array (boundary detection)
 * **Motors:** Built-in dual gear motors via Zumo motor driver
 
-
 ## Getting Started
-1. Install the [Arduino IDE](https://www.arduino.cc/en/software)
-2. Install the [Pololu Zumo 32U4 library](https://github.com/pololu/zumo-32u4-arduino-library)
-3. Open `sumobot-starter-code/sumobot-starter-code.ino`
-4. Connect your Zumo 32U4 via USB and upload
+
+To run this code locally and test our "seek and destroy" logic on your own hardware:
+
+1. **Install the IDE:** Download and install the [Arduino IDE](https://www.arduino.cc/en/software).
+2. **Install Dependencies:** Open the IDE, navigate to the Library Manager (`Sketch` > `Include Library` > `Manage Libraries`), and install the **Pololu Zumo 32U4** library.
+3. **Download the Code:** Clone or download this repository to your local machine.
+4. **Maintain Directory Structure:** Navigate into the project folder. Ensure that the main sketch (`sumobot-code.ino`) and the local header file (`turn-sensor.h`) are kept together inside a folder named `sumobot-code`.
+5. **Upload:** Open `sumobot-code.ino` in the Arduino IDE. Connect your Zumo 32U4 via USB, select the appropriate board and port from the `Tools` menu, and click **Upload**.

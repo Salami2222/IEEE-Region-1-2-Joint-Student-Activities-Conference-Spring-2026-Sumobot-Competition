@@ -9,5 +9,5 @@ A collection of photos from the IEEE Region 1 & 2 Joint SAC — Spring 2026 sumo
 ![Robot on the sumo ring](link-to-your-robot-photo.jpg)
 
 ## The Team on the podium
-https://github.com/Salami2222/IEEE-Region-1-2-Joint-Student-Activities-Conference-Spring-2026-Sumobot-Competition/blob/main/IMG_8595.jpg?raw=true
+<img width="4032" height="3024" alt="Image" src="https://github.com/user-attachments/assets/c3fee789-daad-427e-80dc-46b5fe00b298" />
 

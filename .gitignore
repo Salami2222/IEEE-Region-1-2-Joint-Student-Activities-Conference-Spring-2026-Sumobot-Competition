@@ -1,0 +1,16 @@
+# Arduino Build Files
+build/
+*.elf
+*.hex
+*.eep
+*.bin
+
+# Windows Image/Folder Cache
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Mac OS Folder Cache
+.DS_Store
+.AppleDouble
+.LSOverride
